@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate in data engineer, data analyst and data scientist
+A passionated in end to end data roles
 
 
 ## 🌐 Socials:
