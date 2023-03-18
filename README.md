@@ -17,9 +17,6 @@ A passionated in end to end data roles
 ![putupradnya's Stats](https://github-readme-stats.vercel.app/api?username=putupradnya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![putupradnya's Stats](https://github-readme-stats.vercel.app/api?username=putupradnya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=putupradnya&icon=0&color=0)](https://visitcount.itsvg.in)
