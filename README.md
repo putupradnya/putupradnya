@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionated in end to end data roles
+Passionate in end-to-end data solutions.
 
 
 ## 🌐 Socials:
