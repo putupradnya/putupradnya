@@ -12,7 +12,7 @@ I am a passionate professional specializing in end-to-end data solutions—from 
 - **Machine Learning & Deep Learning:** TensorFlow, Keras, PyTorch
 - **Visualization:** Plotly, Matplotlib, Seaborn
 - **Database:** MySQL, PostgreSQL, MariaDB, Oracle DB, MYSQL, etc
-- **Cloud Service: Azure, AWS, and Private Cloud (VPS)
+- **Cloud Service:** Azure, AWS, and Private Cloud (VPS)
 
 ## 🚀 Featured Projects
 
