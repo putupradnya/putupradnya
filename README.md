@@ -10,7 +10,7 @@ I am a passionate professional specializing in end-to-end data solutions—from 
 - **Web & API:** Django, Flask, Streamlit
 - **Data Processing & Analysis:** Pandas, NumPy, SciPy, scikit-learn
 - **Machine Learning & Deep Learning:** TensorFlow, Keras, PyTorch
-- **Visualization:** Plotly, Matplotlib, Seaborn
+- **Visualization:** PowerBI, Tableau, Superset, Looker Studio, Redash, Grafana
 - **Database:** MySQL, PostgreSQL, MariaDB, Oracle DB, MYSQL, etc
 - **Cloud Service:** Azure, AWS, and Private Cloud (VPS)
 
