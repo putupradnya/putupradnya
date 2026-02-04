@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Putu Pradnya Andika
 
-🚀 **Data & Analytics Professional** | Data Engineering | AI | Dashboarding  
+🚀 **Data & Analytics Professional** | Data Engineering | AI | Analytics  
 🎓 Lecturer in Geophysics Engineering | Lifelong Learner  
 📍 Indonesia
 
@@ -92,3 +92,4 @@ Most repos are built with a **“production mindset”**, even when they start a
 ---
 
 ⭐ If something here helps you, feel free to star or fork!
+
